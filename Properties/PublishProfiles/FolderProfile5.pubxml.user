@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\practicanteti\Downloads\PUBLISH</_PublishTargetUrl>
+    <History>True|2024-07-17T17:02:39.2711265Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Datos.dll">
+      <publishTime>07/17/2024 12:02:38</publishTime>
+    </File>
+    <File Include="bin/Datos.pdb">
+      <publishTime>07/17/2024 12:02:38</publishTime>
+    </File>
+    <File Include="bin/Despachos.dll">
+      <publishTime>07/17/2024 12:02:38</publishTime>
+    </File>
+    <File Include="bin/Despachos.pdb">
+      <publishTime>07/17/2024 12:02:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/18/2022 11:19:40</publishTime>
+    </File>
+    <File Include="bin/Negocio.dll">
+      <publishTime>07/17/2024 12:02:38</publishTime>
+    </File>
+    <File Include="bin/Negocio.pdb">
+      <publishTime>07/17/2024 12:02:38</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>04/09/2023 12:40:52</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 05:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>05/07/2022 22:31:02</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 08:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/22/2021 18:40:18</publishTime>
+    </File>
+    <File Include="bin/System.Text.Encodings.Web.dll">
+      <publishTime>10/18/2022 11:31:48</publishTime>
+    </File>
+    <File Include="bin/System.Text.Json.dll">
+      <publishTime>01/19/2023 19:01:50</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 05:05:18</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>05/15/2018 08:29:52</publishTime>
+    </File>
+    <File Include="FrmLote.aspx">
+      <publishTime>02/23/2024 11:46:46</publishTime>
+    </File>
+    <File Include="FrmProgamacion.aspx">
+      <publishTime>01/25/2024 15:38:48</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/17/2024 12:02:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

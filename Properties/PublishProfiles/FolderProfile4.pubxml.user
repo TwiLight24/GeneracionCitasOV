@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\servicio_despachos</_PublishTargetUrl>
+    <History>True|2024-02-23T16:50:52.7558758Z;True|2024-02-23T11:50:33.4597422-05:00;True|2024-02-23T11:44:37.5461093-05:00;True|2024-02-23T11:41:05.4329113-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Datos.dll">
+      <publishTime>02/23/2024 11:41:04</publishTime>
+    </File>
+    <File Include="bin/Datos.pdb">
+      <publishTime>02/23/2024 11:41:04</publishTime>
+    </File>
+    <File Include="bin/Despachos.dll">
+      <publishTime>02/23/2024 11:50:52</publishTime>
+    </File>
+    <File Include="bin/Despachos.pdb">
+      <publishTime>02/23/2024 11:50:52</publishTime>
+    </File>
+    <File Include="bin/Negocio.dll">
+      <publishTime>02/23/2024 11:50:32</publishTime>
+    </File>
+    <File Include="bin/Negocio.pdb">
+      <publishTime>02/23/2024 11:50:32</publishTime>
+    </File>
+    <File Include="FrmLote.aspx">
+      <publishTime>02/23/2024 11:46:46</publishTime>
+    </File>
+    <File Include="FrmProgamacion.aspx">
+      <publishTime>01/25/2024 15:38:48</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/23/2024 11:41:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

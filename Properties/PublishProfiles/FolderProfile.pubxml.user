@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>\\192.168.1.45\WebTracking</_PublishTargetUrl>
+    <History>True|2023-08-12T13:47:48.7156378Z;True|2021-12-23T13:03:43.5321192-05:00;True|2021-09-06T16:43:33.0447049-05:00;True|2021-09-06T16:40:08.9811172-05:00;True|2021-07-27T01:10:25.3816010-05:00;True|2021-07-27T00:02:53.6245708-05:00;True|2021-07-27T00:02:03.2923554-05:00;True|2021-07-26T23:47:17.4885500-05:00;True|2021-06-24T11:09:44.6226695-05:00;True|2021-06-24T11:04:54.6072368-05:00;True|2021-06-21T09:54:00.4653951-05:00;True|2021-06-21T09:27:27.3732432-05:00;True|2021-06-18T16:57:16.1047724-05:00;True|2021-06-18T12:21:10.9666464-05:00;True|2021-06-17T10:39:37.4980093-05:00;True|2021-06-17T10:37:27.1916445-05:00;True|2021-06-17T10:30:01.7600140-05:00;True|2021-06-17T10:23:28.9533370-05:00;True|2021-06-16T17:59:47.9224504-05:00;True|2021-06-16T13:15:16.3321942-05:00;True|2021-06-16T13:14:34.0166180-05:00;True|2021-06-15T17:44:07.0057706-05:00;True|2021-06-15T15:03:30.3393942-05:00;True|2021-06-14T16:53:37.8290724-05:00;True|2021-06-14T16:51:36.5941121-05:00;True|2021-06-14T16:42:03.8283828-05:00;True|2021-06-14T16:24:17.1158184-05:00;True|2021-06-08T09:26:10.9515489-05:00;True|2021-06-07T13:13:20.7589478-05:00;True|2021-06-07T12:34:34.3923055-05:00;True|2021-06-07T12:06:32.9134503-05:00;True|2021-06-07T11:31:44.1980551-05:00;True|2021-06-07T11:25:21.6257498-05:00;True|2021-06-07T10:12:18.0059230-05:00;True|2021-06-07T10:03:12.6774956-05:00;True|2021-06-07T10:02:44.9041404-05:00;True|2021-06-07T09:23:47.9370705-05:00;True|2021-06-04T10:56:02.4202921-05:00;True|2021-06-04T10:15:23.5766208-05:00;True|2021-06-03T17:53:17.0519615-05:00;True|2021-06-03T17:47:20.7703374-05:00;True|2021-06-03T17:14:24.0279833-05:00;True|2021-06-03T16:58:27.2379323-05:00;True|2021-06-03T16:57:11.1488327-05:00;True|2021-06-03T16:50:20.5218813-05:00;True|2021-06-03T16:45:33.5791717-05:00;True|2021-06-03T16:29:35.3585420-05:00;True|2021-06-03T15:21:13.9963810-05:00;True|2021-06-03T13:34:14.7207764-05:00;True|2021-06-03T13:29:48.3804512-05:00;True|2021-06-03T13:24:12.3549935-05:00;True|2021-06-03T10:51:38.5797823-05:00;True|2021-06-01T15:38:51.1269746-05:00;True|2021-06-01T09:00:52.6231018-05:00;True|2021-05-31T23:47:24.9066907-05:00;True|2021-05-31T17:59:11.0390965-05:00;True|2021-05-31T17:54:37.0479912-05:00;True|2021-05-31T15:30:23.6449996-05:00;True|2021-05-31T14:51:52.5992957-05:00;True|2021-05-31T14:39:37.5708751-05:00;True|2021-05-31T09:44:37.8637836-05:00;True|2021-05-30T16:14:26.6135295-05:00;True|2021-05-30T14:39:06.5127805-05:00;True|2021-05-28T12:03:17.4578083-05:00;True|2021-05-28T12:00:52.7293106-05:00;True|2021-05-28T11:59:24.1200748-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Datos.dll">
+      <publishTime>02/26/2024 17:59:56</publishTime>
+    </File>
+    <File Include="bin/Datos.pdb">
+      <publishTime>02/26/2024 17:59:56</publishTime>
+    </File>
+    <File Include="bin/Despachos.dll">
+      <publishTime>07/17/2024 12:01:56</publishTime>
+    </File>
+    <File Include="bin/Despachos.pdb">
+      <publishTime>07/17/2024 12:01:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/18/2022 11:19:40</publishTime>
+    </File>
+    <File Include="bin/Negocio.dll">
+      <publishTime>02/26/2024 17:59:56</publishTime>
+    </File>
+    <File Include="bin/Negocio.pdb">
+      <publishTime>02/26/2024 17:59:56</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>04/09/2023 12:40:52</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 05:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>05/07/2022 22:31:02</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 08:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/22/2021 18:40:18</publishTime>
+    </File>
+    <File Include="bin/System.Text.Encodings.Web.dll">
+      <publishTime>10/18/2022 11:31:48</publishTime>
+    </File>
+    <File Include="bin/System.Text.Json.dll">
+      <publishTime>01/19/2023 19:01:50</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 05:05:18</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>05/15/2018 08:29:52</publishTime>
+    </File>
+    <File Include="FrmLote.aspx">
+      <publishTime>02/23/2024 11:46:46</publishTime>
+    </File>
+    <File Include="FrmProgamacion.aspx">
+      <publishTime>01/25/2024 15:38:48</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/17/2024 12:01:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

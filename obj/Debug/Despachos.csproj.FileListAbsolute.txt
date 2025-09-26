@@ -1,0 +1,374 @@
+E:\DESARROLLO gmi\Despachos\bin\Despachos.dll.config
+E:\DESARROLLO gmi\Despachos\bin\Despachos.dll
+E:\DESARROLLO gmi\Despachos\bin\Despachos.pdb
+E:\DESARROLLO gmi\Despachos\obj\Debug\Despachos.csprojAssemblyReference.cache
+E:\DESARROLLO gmi\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+E:\DESARROLLO gmi\Despachos\obj\Debug\Despachos.dll
+E:\DESARROLLO gmi\Despachos\obj\Debug\Despachos.pdb
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\bin\Despachos.dll.config
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\bin\Despachos.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\bin\Despachos.pdb
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\obj\Debug\Despachos.csprojAssemblyReference.cache
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\obj\Debug\Despachos.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\obj\Debug\Despachos.pdb
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\bin\Negocio.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\bin\Datos.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\bin\Negocio.pdb
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\bin\Datos.pdb
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\bin\Despachos.dll.config
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\bin\Despachos.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\bin\Despachos.pdb
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\bin\Negocio.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\bin\Datos.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\bin\Negocio.pdb
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\bin\Datos.pdb
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.csprojAssemblyReference.cache
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.pdb
+E:\DESARROLLO gmi\INDUTRACK\Despachos\bin\Despachos.dll.config
+E:\DESARROLLO gmi\INDUTRACK\Despachos\bin\Despachos.dll
+E:\DESARROLLO gmi\INDUTRACK\Despachos\bin\Despachos.pdb
+E:\DESARROLLO gmi\INDUTRACK\Despachos\bin\Negocio.dll
+E:\DESARROLLO gmi\INDUTRACK\Despachos\bin\Datos.dll
+E:\DESARROLLO gmi\INDUTRACK\Despachos\bin\Negocio.pdb
+E:\DESARROLLO gmi\INDUTRACK\Despachos\bin\Datos.pdb
+E:\DESARROLLO gmi\INDUTRACK\Despachos\obj\Debug\Despachos.csprojAssemblyReference.cache
+E:\DESARROLLO gmi\INDUTRACK\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+E:\DESARROLLO gmi\INDUTRACK\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+E:\DESARROLLO gmi\INDUTRACK\Despachos\obj\Debug\Despachos.dll
+E:\DESARROLLO gmi\INDUTRACK\Despachos\obj\Debug\Despachos.pdb
+C:\Program Files (x86)\PLE\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Despachos.dll
+C:\Program Files (x86)\PLE\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Despachos.pdb
+C:\Program Files (x86)\PLE\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Negocio.dll
+C:\Program Files (x86)\PLE\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Datos.dll
+C:\Program Files (x86)\PLE\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Negocio.pdb
+C:\Program Files (x86)\PLE\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Datos.pdb
+C:\Program Files (x86)\PLE\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\PLE\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+C:\Program Files (x86)\PLE\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.dll
+C:\Program Files (x86)\PLE\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.pdb
+C:\Program Files (x86)\PLE\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Despachos.dll.config
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Despachos.dll
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Despachos.pdb
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Negocio.dll
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Datos.dll
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Negocio.pdb
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\bin\Datos.pdb
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.dll
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\obj\Debug\Despachos.pdb
+D:\DESARROLLOS_2022\Despachos\bin\Despachos.dll.config
+D:\DESARROLLOS_2022\Despachos\bin\Despachos.dll
+D:\DESARROLLOS_2022\Despachos\bin\Despachos.pdb
+D:\DESARROLLOS_2022\Despachos\bin\Negocio.dll
+D:\DESARROLLOS_2022\Despachos\bin\Datos.dll
+D:\DESARROLLOS_2022\Despachos\bin\Negocio.pdb
+D:\DESARROLLOS_2022\Despachos\bin\Datos.pdb
+D:\DESARROLLOS_2022\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\DESARROLLOS_2022\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+D:\DESARROLLOS_2022\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+D:\DESARROLLOS_2022\Despachos\obj\Debug\Despachos.dll
+D:\DESARROLLOS_2022\Despachos\obj\Debug\Despachos.pdb
+D:\DESARROLLOS_2022\RumiTrack\Despachos\bin\Despachos.dll.config
+D:\DESARROLLOS_2022\RumiTrack\Despachos\bin\Despachos.dll
+D:\DESARROLLOS_2022\RumiTrack\Despachos\bin\Despachos.pdb
+D:\DESARROLLOS_2022\RumiTrack\Despachos\bin\Negocio.dll
+D:\DESARROLLOS_2022\RumiTrack\Despachos\bin\Datos.dll
+D:\DESARROLLOS_2022\RumiTrack\Despachos\bin\Negocio.pdb
+D:\DESARROLLOS_2022\RumiTrack\Despachos\bin\Datos.pdb
+D:\DESARROLLOS_2022\RumiTrack\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\DESARROLLOS_2022\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+D:\DESARROLLOS_2022\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+D:\DESARROLLOS_2022\RumiTrack\Despachos\obj\Debug\Despachos.dll
+D:\DESARROLLOS_2022\RumiTrack\Despachos\obj\Debug\Despachos.pdb
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\bin\Despachos.dll.config
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\bin\Despachos.dll
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\bin\Despachos.pdb
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\bin\Negocio.dll
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\bin\Datos.dll
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\bin\Negocio.pdb
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\bin\Datos.pdb
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\obj\Debug\Despachos.dll
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\obj\Debug\Despachos.pdb
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\bin\Despachos.dll.config
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\bin\Despachos.dll
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\bin\Despachos.pdb
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\bin\Negocio.dll
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\bin\Datos.dll
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\bin\Negocio.pdb
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\bin\Datos.pdb
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\obj\Debug\Despachos.dll
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\obj\Debug\Despachos.pdb
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\bin\Despachos.dll.config
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\bin\Despachos.dll
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\bin\Despachos.pdb
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\bin\Negocio.dll
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\bin\Datos.dll
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\bin\Negocio.pdb
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\bin\Datos.pdb
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\obj\Debug\Despachos.dll
+D:\Desarrollos\RumiTrack_v1.2\RumiTrack\Despachos\obj\Debug\Despachos.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\bin\Despachos.dll.config
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\bin\Despachos.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\bin\Despachos.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\bin\Negocio.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\bin\Datos.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\bin\Negocio.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\bin\Datos.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\obj\Debug\Despachos.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\obj\Debug\Despachos.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\bin\Despachos.dll.config
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\bin\Despachos.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\bin\Despachos.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\bin\Negocio.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\bin\Datos.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\bin\Negocio.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\bin\Datos.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\obj\Debug\Despachos.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\obj\Debug\Despachos.pdb
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\Despachos.dll.config
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\Despachos.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\Despachos.pdb
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\Negocio.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\RestSharp.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Buffers.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Memory.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Numerics.Vectors.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Text.Encodings.Web.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Text.Json.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.ValueTuple.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\Datos.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\Negocio.pdb
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\RestSharp.xml
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Buffers.xml
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Memory.xml
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Numerics.Vectors.xml
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Text.Encodings.Web.xml
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Text.Json.xml
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\System.ValueTuple.xml
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\bin\Datos.pdb
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\obj\Debug\Despachos.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\obj\Debug\Despachos.pdb
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\Despachos.dll.config
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\Despachos.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\Despachos.pdb
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\Negocio.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\RestSharp.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Buffers.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Memory.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Numerics.Vectors.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Text.Encodings.Web.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Text.Json.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.ValueTuple.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\Datos.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\Negocio.pdb
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\RestSharp.xml
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Buffers.xml
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Memory.xml
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Numerics.Vectors.xml
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Text.Encodings.Web.xml
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Text.Json.xml
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\System.ValueTuple.xml
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\bin\Datos.pdb
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\obj\Debug\Despachos.dll
+C:\Users\practicanteti\Downloads\RumiTrack_v1.7\RumiTrack\Despachos\obj\Debug\Despachos.pdb
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\Despachos.dll.config
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\Despachos.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\Despachos.pdb
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\Negocio.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\RestSharp.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Buffers.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Memory.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Numerics.Vectors.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Text.Encodings.Web.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Text.Json.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Threading.Tasks.Extensions.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.ValueTuple.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\Datos.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\Negocio.pdb
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\RestSharp.xml
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Buffers.xml
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Memory.xml
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Numerics.Vectors.xml
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Text.Encodings.Web.xml
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Text.Json.xml
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.Threading.Tasks.Extensions.xml
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\System.ValueTuple.xml
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\bin\Datos.pdb
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\obj\Debug\Despachos.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\obj\Debug\Despachos.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Despachos.dll.config
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Despachos.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Despachos.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Negocio.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\RestSharp.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Buffers.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Memory.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Numerics.Vectors.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Text.Encodings.Web.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Text.Json.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Threading.Tasks.Extensions.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.ValueTuple.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Datos.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Negocio.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\RestSharp.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Buffers.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Memory.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Numerics.Vectors.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Text.Encodings.Web.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Text.Json.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Threading.Tasks.Extensions.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.ValueTuple.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Datos.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\obj\Debug\Despachos.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\obj\Debug\Despachos.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Despachos.dll.config
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Despachos.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Despachos.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Negocio.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\RestSharp.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Buffers.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Memory.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Numerics.Vectors.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Text.Encodings.Web.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Text.Json.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Threading.Tasks.Extensions.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.ValueTuple.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Datos.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Negocio.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\RestSharp.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Buffers.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Memory.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Numerics.Vectors.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Text.Encodings.Web.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Text.Json.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.Threading.Tasks.Extensions.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\System.ValueTuple.xml
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\bin\Datos.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\obj\Debug\Despachos.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\obj\Debug\Despachos.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\Despachos.dll.config
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\Despachos.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\Despachos.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\Negocio.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\RestSharp.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Buffers.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Memory.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Numerics.Vectors.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Text.Encodings.Web.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Text.Json.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.ValueTuple.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\Datos.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\Negocio.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\RestSharp.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Buffers.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Memory.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Numerics.Vectors.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Text.Encodings.Web.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Text.Json.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\System.ValueTuple.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\bin\Datos.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\obj\Debug\Despachos.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\obj\Debug\Despachos.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\Despachos.dll.config
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\Despachos.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\Despachos.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\Negocio.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\RestSharp.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Buffers.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Memory.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Numerics.Vectors.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Text.Encodings.Web.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Text.Json.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.ValueTuple.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\Datos.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\Negocio.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\RestSharp.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Buffers.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Memory.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Numerics.Vectors.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Text.Encodings.Web.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Text.Json.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\System.ValueTuple.xml
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\bin\Datos.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\obj\Debug\Despachos.csproj.AssemblyReference.cache
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\obj\Debug\Despachos.csproj.CoreCompileInputs.cache
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\obj\Debug\Despachos.csproj.CopyComplete
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\obj\Debug\Despachos.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\obj\Debug\Despachos.pdb

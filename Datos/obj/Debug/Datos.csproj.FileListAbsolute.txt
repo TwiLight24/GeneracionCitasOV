@@ -1,0 +1,89 @@
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\Datos\bin\Debug\Datos.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\Datos\bin\Debug\Datos.pdb
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\Datos\obj\Debug\Datos.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\Despachos\Datos\obj\Debug\Datos.pdb
+E:\DESARROLLO gmi\INDUTRACK\Despachos\Datos\bin\Debug\Datos.dll
+E:\DESARROLLO gmi\INDUTRACK\Despachos\Datos\bin\Debug\Datos.pdb
+E:\DESARROLLO gmi\INDUTRACK\Despachos\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+E:\DESARROLLO gmi\INDUTRACK\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\DESARROLLO gmi\INDUTRACK\Despachos\Datos\obj\Debug\Datos.dll
+E:\DESARROLLO gmi\INDUTRACK\Despachos\Datos\obj\Debug\Datos.pdb
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\Datos\bin\Debug\Datos.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\Datos\bin\Debug\Datos.pdb
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\Datos\obj\Debug\Datos.dll
+C:\Users\eterrones\Documents\ASBO\DESARROLLO\INDUTRACK\Despachos\Datos\obj\Debug\Datos.pdb
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\Datos\bin\Debug\Datos.dll
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\Datos\bin\Debug\Datos.pdb
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\Datos\obj\Debug\Datos.dll
+D:\7F0580BC4CEB4AB5A9B4AB302870F427\DESARROLLO\INDUTRACK\Despachos\Datos\obj\Debug\Datos.pdb
+D:\DESARROLLOS_2022\Despachos\Datos\bin\Debug\Datos.dll
+D:\DESARROLLOS_2022\Despachos\Datos\bin\Debug\Datos.pdb
+D:\DESARROLLOS_2022\Despachos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\DESARROLLOS_2022\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\DESARROLLOS_2022\Despachos\Datos\obj\Debug\Datos.dll
+D:\DESARROLLOS_2022\Despachos\Datos\obj\Debug\Datos.pdb
+D:\DESARROLLOS_2022\RumiTrack\Despachos\Datos\bin\Debug\Datos.dll
+D:\DESARROLLOS_2022\RumiTrack\Despachos\Datos\bin\Debug\Datos.pdb
+D:\DESARROLLOS_2022\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\DESARROLLOS_2022\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\DESARROLLOS_2022\RumiTrack\Despachos\Datos\obj\Debug\Datos.dll
+D:\DESARROLLOS_2022\RumiTrack\Despachos\Datos\obj\Debug\Datos.pdb
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\Datos\bin\Debug\Datos.dll
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\Datos\bin\Debug\Datos.pdb
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\Datos\obj\Debug\Datos.dll
+D:\DESARROLLOS\PRUEBAS\RumiTrack\Despachos\Datos\obj\Debug\Datos.pdb
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\Datos\bin\Debug\Datos.dll
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\Datos\bin\Debug\Datos.pdb
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\Datos\obj\Debug\Datos.dll
+D:\Desarrollos\RumiTrack\RumiTrack\Despachos\Datos\obj\Debug\Datos.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\Datos\bin\Debug\Datos.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\Datos\bin\Debug\Datos.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\Datos\obj\Debug\Datos.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.3\RumiTrack_v1.2\RumiTrack\Despachos\Datos\obj\Debug\Datos.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\Datos\bin\Debug\Datos.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\Datos\bin\Debug\Datos.pdb
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\Datos\obj\Debug\Datos.dll
+D:\ANGIE\Desarrollos\RumiTrack_v1.4_CancelarDespacho\RumiTrack\Despachos\Datos\obj\Debug\Datos.pdb
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\Datos\bin\Debug\Datos.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\Datos\bin\Debug\Datos.pdb
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\Datos\obj\Debug\Datos.dll
+C:\Users\practicanteti\Desktop\Sally\RumiTrack_v1.6 cancelar despacho 88\RumiTrack\Despachos\Datos\obj\Debug\Datos.pdb
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\Datos\bin\Debug\Datos.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\Datos\bin\Debug\Datos.pdb
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\Datos\obj\Debug\Datos.dll
+D:\Ultimas Versiones Actualizadas\Pendiente 2\RumiTrack_v1.8\RumiTrack\Despachos\Datos\obj\Debug\Datos.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\Datos\bin\Debug\Datos.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\Datos\bin\Debug\Datos.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\Datos\obj\Debug\Datos.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\Datos\obj\Debug\Datos.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\RumiTrack_v1.9\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\Datos\bin\Debug\Datos.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\Datos\bin\Debug\Datos.pdb
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\Datos\obj\Debug\Datos.dll
+D:\Ultimas Versiones Actualizadas\REALIZADAS\REALIZADOS\RumiTrack_v1.9\RumiTrack\Despachos\Datos\obj\Debug\Datos.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\Datos\bin\Debug\Datos.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\Datos\bin\Debug\Datos.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\Datos\obj\Debug\Datos.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v1.9\RumiTrack_v2.0\Despachos\Datos\obj\Debug\Datos.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\Datos\bin\Debug\Datos.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\Datos\bin\Debug\Datos.pdb
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\Datos\obj\Debug\Datos.dll
+C:\Users\practicanteti\Desktop\RumiTrack_v2.0\Despachos\Datos\obj\Debug\Datos.pdb
